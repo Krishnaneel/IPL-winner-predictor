@@ -2,7 +2,7 @@
 This contains an ML model to predict the winning probability of a team batting in the second innings of an IPL match.
 
 
-[Live Link to the Predictor](https://sanam2405-iplwinnerpredictor-app-g4nnh4.streamlit.app/)
+[Live Link to the Predictor](https://krishnaneel-ipl-winner-predictor-app-smamsr.streamlit.app/)
 
 <hr>
 
